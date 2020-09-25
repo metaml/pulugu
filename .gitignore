@@ -1,0 +1,14 @@
+.ghc.environment.*
+.stack-work/
+bin
+cabal.project.loca*
+deploy
+dist
+dist-newstyle
+*.a
+*.js_a
+*.o
+*.js_o
+*.hi
+*.js_hi
+*~
